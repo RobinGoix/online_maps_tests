@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Map:](qgis2web_2022_02_11-11_32_48_436387/index.html)
+[QGIS Map](qgis2web_2022_02_11-11_32_48_436387/index.html)
 
 
 You can use the [editor on GitHub](https://github.com/RobinGoix/online_maps_tests/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
