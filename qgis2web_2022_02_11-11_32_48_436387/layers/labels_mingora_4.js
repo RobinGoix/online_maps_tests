@@ -1,0 +1,1 @@
+var json_labels_mingora_4 = {"type":"FeatureCollection","name":"labels_mingora_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"airport","label":"Saidu Sharif Airport"},"geometry":{"type":"Point","coordinates":[72.352302527184548,34.812314818014407]}}]}
